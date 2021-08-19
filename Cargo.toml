@@ -1,0 +1,13 @@
+[package]
+name = "ip-unhash"
+version = "0.1.0"
+authors = ["Wait_What_ <me.git@waitwhat.help>"]
+edition = "2018"
+
+[profile.release]
+lto = 'thin'
+
+[dependencies]
+hex = "0.4.3"
+md5 = "0.7.0"
+num_cpus = "1.13.0"
