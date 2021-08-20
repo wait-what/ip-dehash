@@ -5,7 +5,7 @@ Since this program exists purely for educational purposes, it only supports 1 fo
 This could easily be "improved" to add support for other formats.
 
 # Usage
-1. Download the program from [releases]() or compile it yourself
+1. Download the program from [releases](https://github.com/wait-what/ip-dehash/releases) or compile it yourself
 1. Input the hash. For example, you could use `a54f0041a9e15b050f25c463f1db7449` for benchmarking.
 1. The results will be printed to the terminal
 
